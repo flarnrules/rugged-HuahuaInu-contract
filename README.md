@@ -1,3 +1,10 @@
+NOTE THIS CONTRACT WAS AN AMM ON THE HUAHUA BLOCKCHAIN - the token and AMM launched on 11/13/2022.
+After a few hours, and approximately $100k+ in HUAHUA tokens added to the contract, the entire project rugpulled.
+I was working on a code review for the Web3 Builder's Alliance, and figured it would be fun to do my code journals with this contract.
+After cloning the contract, the project rugged within minutes.
+I would like to believe that me cloning the contract spooked the team so they rugged early.
+
+
 # Huahua Inu Swap
 
 This contract is an automatic market maker (AMM) heavily inspired by Uniswap v1 for the cosmwasm smart contract engine.
